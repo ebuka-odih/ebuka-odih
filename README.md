@@ -20,7 +20,7 @@
 | 🎯 | **[Oziai](https://oziai.live)** | Find, qualify and reach the right people before anyone else does. One chat drives search across LinkedIn, X, YC and the web, then the pipeline and the outreach. | FastAPI · React · Agents |
 | 🩺 | **[LeraCore](https://leracore.life)** | Offline clinical guidance for community health workers on an ordinary Android phone. Follows WHO and Nigerian protocols, in English, Hausa, Yorùbá, Igbo and Naijá. *(prototype)* | Python · On-device AI |
 | 🧠 | **[agent-skills](https://github.com/ebuka-odih/agent-skills)** | My engineering standards as Claude Code plugins: architecture, security, testing, DevOps, and a gate that makes the agent *prove* it's done. Install once, use everywhere. | Claude Code · Shell |
-| 🔌 | **[CityPlug](https://cityplug.ng)** | A directory of local businesses, filled by a [scraping agent](https://github.com/ebuka-odih/cityplug-agent) that pulls hours, ratings and services. | TypeScript · Python |
+| 🔌 | **[CityPlug](https://github.com/ebuka-odih/cityplug-agent)** | A directory of local businesses, filled by a scraping agent that pulls hours, ratings and services. | TypeScript · Python |
 
 <details>
 <summary><b>🧪 Side projects</b></summary>
